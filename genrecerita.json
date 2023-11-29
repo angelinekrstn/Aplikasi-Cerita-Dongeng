@@ -1,4 +1,5 @@
-[
+{
+  "result": [
   {
     "image": "https://www.imural.id/blog/wp-content/uploads/2017/05/lukisan-still-sillent.jpg",
     "genre": "Fantasy"
@@ -24,3 +25,4 @@
     "genre": "Petualangan"
   }
 ]
+}
