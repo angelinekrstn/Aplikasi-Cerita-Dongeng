@@ -1,0 +1,26 @@
+[
+  {
+    "image_url": "https://www.imural.id/blog/wp-content/uploads/2017/05/lukisan-still-sillent.jpg",
+    "genre": "Fantasy"
+  },
+  {
+    "image_url": "https://media.istockphoto.com/id/1277822133/id/foto/kapal-tempur-scifi-futuristik-melayang-di-atas-planet-alien.jpg?s=612x612&w=0&k=20&c=YhVUn6DVe0eKAj3X2GgWefRYm1Xp11ecJZvvdXsmWPA=",
+    "genre": "Science Fiction"
+  },
+  {
+    "image_url": "https://cdn1.katadata.co.id/media/images/thumb/2022/12/22/Ilustrasi_Rekomendasi_Novel_Indonesia-2022_12_22-13_11_33_8ce56584ffe1f670e087d8312a6a130b_960x640_thumb.jpg",
+    "genre": "Non Fiksi"
+  },
+  {
+    "image_url": "https://cdn0-production-images-kly.akamaized.net/abI-UVENNtfX4flvhU2kgx1BuZk=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2953208/original/083297400_1572397814-ILUSTRASI_RUMAH_HANTU.jpg",
+    "genre": "Misteri"
+  },
+  {
+    "image_url": "https://cdn1.katadata.co.id/media/images/thumb/2023/02/15/Cerita_rakyat_Timun_Mas-2023_02_15-10_52_48_75b9e523119450f0734c6e1332750e38_960x640_thumb.jpg",
+    "genre": "Cerita Rakyat"
+  },
+  {
+    "image_url": "https://img.lovepik.com/photo/40104/0128.jpg_wh860.jpg",
+    "genre": "Petualangan"
+  }
+]
